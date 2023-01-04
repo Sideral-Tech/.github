@@ -1,0 +1,2 @@
+# .github
+Dominion through technology
